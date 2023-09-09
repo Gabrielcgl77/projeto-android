@@ -61,7 +61,7 @@ nav{
 }
 nav >a{
     color: white;
-    padding: 26px;
+    padding: 10px;
     text-decoration: none;
     font-weight: bolder;
     border-radius: 3px;
@@ -82,7 +82,7 @@ header >h1{
 color: white;
    font-family: var(--fonte-Android);
    margin-bottom: 20px;
-   font-size: 2em;
+   font-size: 3em;
    text-shadow: 2px,2px,0px, rgba(0, 0, 0, 0,315);
 }
 header >p{
@@ -92,7 +92,6 @@ header >p{
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 50px;
 }
 main img.pequeno{
     display: block;
@@ -166,6 +165,5 @@ footer{
     font-family: var(--fonte-Android);
     color: white;
     text-align: center;
-    padding: 2px;
-    
+    padding: 2px;    
 }
